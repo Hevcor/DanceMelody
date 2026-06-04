@@ -1,0 +1,6 @@
+{
+  "versionCode": 5,
+  "versionName": "1.2.1",
+  "apkUrl": "https://raw.githubusercontent.com/Hevcor/DanceMelody/app-release.apk",
+  "updateDescription": "更新内容：\n1. 添加飘带效果模式\n2. 添加自动升级功能\n3. 优化性能"
+}
